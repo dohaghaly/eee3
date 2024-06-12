@@ -1,0 +1,39 @@
+.s{
+    text-align: center;
+    font-size: large;
+    color: black;
+
+}
+.s img{
+    width: 50%;
+}
+.main{
+    font-size: larger;
+    color: maroon;
+}
+button{
+    background-color: chocolate;
+    color: aliceblue;
+    border-radius: 30px;
+}
+.main{
+    text-align: center;
+}
+.s{
+    color: crimson;
+}
+.f{
+    color: crimson;
+}
+.d{
+    color: crimson;
+}
+.o{
+    color: crimson;
+}
+.y{
+    color: crimson;
+}
+.n{
+    color: crimson;
+}
